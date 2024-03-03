@@ -1,0 +1,3 @@
+Included in this repository are the original python files where I played with various forms of data visualizations in Python, as well as papers which include Gephi visualizations and written literature reviews, discourse and policy analysis I performed to aid the project. 
+This research was conducted through a grant issued by the Rockefeller foundation in order to discover existing networks of activism on Twitter. 
+Networks informed us on the structure of outspoken communities in food systems and patterns of engagement, which allowed us to recommend strategies to inform COP 27 (United Nations Climate Change conference).
